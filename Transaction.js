@@ -1,4 +1,4 @@
-export class User {
+export class Transaction {
     constructor(Date,From,To,Narrative,Amount) {
         this.Date = Date;
         this.From = From;

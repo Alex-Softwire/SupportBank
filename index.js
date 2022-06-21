@@ -1,26 +1,27 @@
 import fs from "fs";
+import log4js from "log4js"
 import {parse} from "csv-parse";
-var csvFile = "Transactions2014.csv";
+var csvFile = "Dodgy Transaction.csv";
 import readlineSync from 'readline-sync';
-
-import { User } from "./user.js"
+import { Transaction } from "./Transaction.js"
 import { Person } from "./Person.js"
 
-
-var userList = []
-// Reads the CSV file into an array
-const processData = (err, data) => {
-    if (err) {
-        console.log(`An error was encountered: ${err}`);
-        return;
+// LOGGING CODE
+log4js.configure({
+    appenders: {
+        file: { type: 'fileSync', filename: 'logs/debug.log' }
+    },
+    categories: {
+        default: { appenders: ['file'], level: 'debug'}
     }
-    data.shift()
-    const userList = data.map(row => new User(...row))
+});
+const logger = log4js.getLogger("index.js")
 
-    // MAIN PROGRAM STARTS
+// MAIN CODE
+function ProcessFile() {
     let Names = []
 
-    for (let i=0;i < userList.length;i++) {
+    for (let i=1;i < userList.length;i++) {
         let found_namea = 0
         let found_nameb = 0
 
@@ -54,7 +55,7 @@ const processData = (err, data) => {
     }
     for (let i = 0; i < Names.length;i++) {
         if (input == "List "+Names[i].Name){
-            for (let j = 0; j < userList.length; j++) {
+            for (let j = 1; j < userList.length; j++) {
                 if ((userList[j].From === Names[i].Name) || (userList[j].To === Names[i].Name)) {
                     console.log("Date: " + userList[j].Date + "  From:" + userList[j].To + "  To:" + userList[j].From + "  Narrative: " + userList[j].Narrative + "  Amount: " + userList[j].Amount)
                 }
@@ -63,8 +64,15 @@ const processData = (err, data) => {
     }
 }
 
+let userList = []
 
-fs.createReadStream(csvFile).pipe(parse({ delimiter: ',' }, processData))
-//async function readAndProcessFile() {
-    //const userList = await fs.createReadStream(csvFile).pipe(parse({ delimiter: ',' }, processData))
-//}
+function loadOneTransaction(csvRow) {
+    userList.push(new Transaction(csvRow[0], csvRow[1], csvRow[2], csvRow[3], csvRow[4]))
+}
+
+fs.createReadStream(csvFile)
+    .pipe(parse({delimiter: ','}))
+    .on('data', loadOneTransaction)
+    .on('end', () => ProcessFile())
+
+
