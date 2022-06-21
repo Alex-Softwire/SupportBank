@@ -2,3 +2,431 @@
 [2022-06-21T16:39:34.672] [WARN] index.js - TESTT
 [2022-06-21T16:40:02.283] [WARN] index.js - TESTT
 [2022-06-21T16:40:10.097] [WARN] index.js - TESTT
+[2022-06-21T16:55:53.326] [INFO] index.js - hello
+[2022-06-21T16:55:53.327] [WARN] index.js - hi
+[2022-06-21T16:55:53.328] [INFO] index.js - hello
+[2022-06-21T16:55:53.328] [WARN] index.js - hi
+[2022-06-21T16:55:53.329] [INFO] index.js - hello
+[2022-06-21T16:55:53.329] [WARN] index.js - hi
+[2022-06-21T16:55:53.329] [INFO] index.js - hello
+[2022-06-21T16:55:53.329] [WARN] index.js - hi
+[2022-06-21T16:55:53.329] [INFO] index.js - hello
+[2022-06-21T16:55:53.330] [WARN] index.js - hi
+[2022-06-21T16:55:53.330] [INFO] index.js - hello
+[2022-06-21T16:55:53.330] [WARN] index.js - hi
+[2022-06-21T16:55:53.330] [INFO] index.js - hello
+[2022-06-21T16:55:53.330] [WARN] index.js - hi
+[2022-06-21T16:55:53.330] [INFO] index.js - hello
+[2022-06-21T16:55:53.330] [WARN] index.js - hi
+[2022-06-21T16:55:53.330] [INFO] index.js - hello
+[2022-06-21T16:55:53.331] [WARN] index.js - hi
+[2022-06-21T16:55:53.331] [INFO] index.js - hello
+[2022-06-21T16:55:53.331] [WARN] index.js - hi
+[2022-06-21T16:55:53.331] [INFO] index.js - hello
+[2022-06-21T16:55:53.331] [WARN] index.js - hi
+[2022-06-21T16:55:53.331] [INFO] index.js - hello
+[2022-06-21T16:55:53.331] [WARN] index.js - hi
+[2022-06-21T16:55:53.331] [INFO] index.js - hello
+[2022-06-21T16:55:53.331] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.332] [INFO] index.js - hello
+[2022-06-21T16:55:53.332] [WARN] index.js - hi
+[2022-06-21T16:55:53.333] [INFO] index.js - hello
+[2022-06-21T16:55:53.333] [WARN] index.js - hi
+[2022-06-21T16:55:53.333] [INFO] index.js - hello
+[2022-06-21T16:55:53.333] [WARN] index.js - hi
+[2022-06-21T16:55:53.333] [INFO] index.js - hello
+[2022-06-21T16:55:53.333] [WARN] index.js - hi
+[2022-06-21T16:55:53.333] [INFO] index.js - hello
+[2022-06-21T16:55:53.333] [WARN] index.js - hi
+[2022-06-21T16:55:53.333] [INFO] index.js - hello
+[2022-06-21T16:55:53.333] [WARN] index.js - hi
+[2022-06-21T16:55:53.334] [INFO] index.js - hello
+[2022-06-21T16:55:53.334] [WARN] index.js - hi
+[2022-06-21T16:55:53.334] [INFO] index.js - hello
+[2022-06-21T16:55:53.334] [WARN] index.js - hi
+[2022-06-21T16:55:53.334] [INFO] index.js - hello
+[2022-06-21T16:55:53.334] [WARN] index.js - hi
+[2022-06-21T16:55:53.334] [INFO] index.js - hello
+[2022-06-21T16:55:53.334] [WARN] index.js - hi
+[2022-06-21T16:55:53.334] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.335] [WARN] index.js - hi
+[2022-06-21T16:55:53.335] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.336] [WARN] index.js - hi
+[2022-06-21T16:55:53.336] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.337] [WARN] index.js - hi
+[2022-06-21T16:55:53.337] [INFO] index.js - hello
+[2022-06-21T16:55:53.338] [WARN] index.js - hi
+[2022-06-21T16:55:53.338] [INFO] index.js - hello
+[2022-06-21T16:55:53.338] [WARN] index.js - hi
+[2022-06-21T16:55:53.338] [INFO] index.js - hello
+[2022-06-21T16:55:53.338] [WARN] index.js - hi
+[2022-06-21T17:08:56.136] [INFO] index.js - Program has Started
+[2022-06-21T17:08:56.139] [INFO] index.js - Program has Ended!
+[2022-06-21T17:08:56.145] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:09:48.646] [INFO] index.js - Program has Started
+[2022-06-21T17:09:48.649] [INFO] index.js - Program has Ended!
+[2022-06-21T17:09:48.655] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:12:15.409] [INFO] index.js - Program has Started
+[2022-06-21T17:12:15.412] [INFO] index.js - Program has Ended!
+[2022-06-21T17:12:15.418] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:12:15.419] [INFO] index.js - 10.54
+[2022-06-21T17:12:15.419] [INFO] index.js - 3.22
+[2022-06-21T17:12:15.419] [INFO] index.js - 9.93
+[2022-06-21T17:12:15.420] [INFO] index.js - 9.01
+[2022-06-21T17:12:15.420] [INFO] index.js - 10.29
+[2022-06-21T17:13:36.674] [INFO] index.js - Program has Started
+[2022-06-21T17:13:36.677] [INFO] index.js - Program has Ended!
+[2022-06-21T17:13:36.684] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:14:24.455] [INFO] index.js - Program has Started
+[2022-06-21T17:14:24.459] [INFO] index.js - Program has Ended!
+[2022-06-21T17:14:24.465] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:14:24.465] [INFO] index.js - 8.94
+[2022-06-21T17:14:24.465] [INFO] index.js - 0.69
+[2022-06-21T17:14:24.466] [INFO] index.js - 10.73
+[2022-06-21T17:14:24.466] [INFO] index.js - 0.8
+[2022-06-21T17:14:24.466] [INFO] index.js - 9.01
+[2022-06-21T17:14:24.466] [INFO] index.js - 7.53
+[2022-06-21T17:14:24.467] [INFO] index.js - 7.43
+[2022-06-21T17:14:24.467] [INFO] index.js - 5.78
+[2022-06-21T17:14:24.467] [INFO] index.js - 10.29
+[2022-06-21T17:14:24.467] [INFO] index.js - 7.37
+[2022-06-21T17:14:24.467] [INFO] index.js - 9.84
+[2022-06-21T17:14:24.467] [INFO] index.js - 0.68
+[2022-06-21T17:14:24.468] [INFO] index.js - 6.56
+[2022-06-21T17:14:24.468] [INFO] index.js - 1.28
+[2022-06-21T17:14:24.468] [INFO] index.js - 11.48
+[2022-06-21T17:14:24.468] [INFO] index.js - 4.83
+[2022-06-21T17:14:24.468] [INFO] index.js - 0.5
+[2022-06-21T17:14:24.468] [INFO] index.js - 9.08
+[2022-06-21T17:14:24.468] [INFO] index.js - 4.23
+[2022-06-21T17:14:24.468] [INFO] index.js - NaN
+[2022-06-21T17:14:24.469] [INFO] index.js - 1.92
+[2022-06-21T17:14:24.469] [INFO] index.js - 9.09
+[2022-06-21T17:14:24.469] [INFO] index.js - 9.4
+[2022-06-21T17:14:24.469] [INFO] index.js - 11.32
+[2022-06-21T17:14:24.469] [INFO] index.js - 11.57
+[2022-06-21T17:14:24.469] [INFO] index.js - 2.29
+[2022-06-21T17:14:24.469] [INFO] index.js - 9.96
+[2022-06-21T17:14:24.469] [INFO] index.js - 7.54
+[2022-06-21T17:14:24.470] [INFO] index.js - 2.39
+[2022-06-21T17:14:24.470] [INFO] index.js - 5.83
+[2022-06-21T17:14:24.470] [INFO] index.js - 10.85
+[2022-06-21T17:14:24.470] [INFO] index.js - 8.6
+[2022-06-21T17:14:24.470] [INFO] index.js - 1.11
+[2022-06-21T17:14:24.470] [INFO] index.js - 0.96
+[2022-06-21T17:14:24.470] [INFO] index.js - 11.79
+[2022-06-21T17:14:24.471] [INFO] index.js - 8.37
+[2022-06-21T17:14:24.471] [INFO] index.js - 1.27
+[2022-06-21T17:14:24.471] [INFO] index.js - 8.5
+[2022-06-21T17:14:24.471] [INFO] index.js - 8.91
+[2022-06-21T17:14:24.471] [INFO] index.js - 8.1
+[2022-06-21T17:14:24.471] [INFO] index.js - 6.38
+[2022-06-21T17:14:24.471] [INFO] index.js - 8.44
+[2022-06-21T17:14:24.471] [INFO] index.js - 10.91
+[2022-06-21T17:14:24.471] [INFO] index.js - 5.42
+[2022-06-21T17:16:49.832] [INFO] index.js - Program has Started
+[2022-06-21T17:16:49.835] [INFO] index.js - Program has Ended!
+[2022-06-21T17:16:49.841] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:16:49.841] [INFO] index.js - 8.94
+[2022-06-21T17:16:49.841] [INFO] index.js - 0.69
+[2022-06-21T17:16:49.841] [INFO] index.js - 10.73
+[2022-06-21T17:16:49.842] [INFO] index.js - 0.8
+[2022-06-21T17:16:49.842] [INFO] index.js - 9.01
+[2022-06-21T17:16:49.842] [INFO] index.js - 7.53
+[2022-06-21T17:16:49.842] [INFO] index.js - 7.43
+[2022-06-21T17:16:49.843] [INFO] index.js - 5.78
+[2022-06-21T17:16:49.843] [INFO] index.js - 10.29
+[2022-06-21T17:16:49.843] [INFO] index.js - 7.37
+[2022-06-21T17:16:49.843] [INFO] index.js - 9.84
+[2022-06-21T17:16:49.843] [INFO] index.js - 0.68
+[2022-06-21T17:16:49.843] [INFO] index.js - 6.56
+[2022-06-21T17:16:49.844] [INFO] index.js - 1.28
+[2022-06-21T17:16:49.844] [INFO] index.js - 11.48
+[2022-06-21T17:16:49.844] [INFO] index.js - 4.83
+[2022-06-21T17:16:49.844] [INFO] index.js - 0.5
+[2022-06-21T17:16:49.844] [INFO] index.js - 9.08
+[2022-06-21T17:16:49.844] [INFO] index.js - 4.23
+[2022-06-21T17:16:49.844] [INFO] index.js - NaN
+[2022-06-21T17:16:49.844] [INFO] index.js - 1.92
+[2022-06-21T17:16:49.844] [INFO] index.js - 9.09
+[2022-06-21T17:16:49.845] [INFO] index.js - 9.4
+[2022-06-21T17:16:49.845] [INFO] index.js - 11.32
+[2022-06-21T17:16:49.845] [INFO] index.js - 11.57
+[2022-06-21T17:16:49.845] [INFO] index.js - 2.29
+[2022-06-21T17:16:49.845] [INFO] index.js - 9.96
+[2022-06-21T17:16:49.845] [INFO] index.js - 7.54
+[2022-06-21T17:16:49.845] [INFO] index.js - 2.39
+[2022-06-21T17:16:49.845] [INFO] index.js - 5.83
+[2022-06-21T17:16:49.845] [INFO] index.js - 10.85
+[2022-06-21T17:16:49.845] [INFO] index.js - 8.6
+[2022-06-21T17:16:49.845] [INFO] index.js - 1.11
+[2022-06-21T17:16:49.845] [INFO] index.js - 0.96
+[2022-06-21T17:16:49.846] [INFO] index.js - 11.79
+[2022-06-21T17:16:49.846] [INFO] index.js - 8.37
+[2022-06-21T17:16:49.846] [INFO] index.js - 1.27
+[2022-06-21T17:16:49.846] [INFO] index.js - 8.5
+[2022-06-21T17:16:49.846] [INFO] index.js - 8.91
+[2022-06-21T17:16:49.846] [INFO] index.js - 8.1
+[2022-06-21T17:16:49.846] [INFO] index.js - 6.38
+[2022-06-21T17:16:49.847] [INFO] index.js - 8.44
+[2022-06-21T17:16:49.847] [INFO] index.js - 10.91
+[2022-06-21T17:16:49.847] [INFO] index.js - 5.42
+[2022-06-21T17:17:30.457] [INFO] index.js - Program has Started
+[2022-06-21T17:17:30.461] [INFO] index.js - Program has Ended!
+[2022-06-21T17:17:30.468] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:17:30.469] [INFO] index.js - 8.94
+[2022-06-21T17:17:30.469] [INFO] index.js - 0.69
+[2022-06-21T17:17:30.469] [INFO] index.js - 10.73
+[2022-06-21T17:17:30.470] [INFO] index.js - 0.8
+[2022-06-21T17:17:30.471] [INFO] index.js - 9.01
+[2022-06-21T17:17:30.471] [INFO] index.js - 7.53
+[2022-06-21T17:17:30.472] [INFO] index.js - 7.43
+[2022-06-21T17:17:30.472] [INFO] index.js - 5.78
+[2022-06-21T17:17:30.473] [INFO] index.js - 10.29
+[2022-06-21T17:17:30.473] [INFO] index.js - 7.37
+[2022-06-21T17:17:30.473] [INFO] index.js - 9.84
+[2022-06-21T17:17:30.473] [INFO] index.js - 0.68
+[2022-06-21T17:17:30.474] [INFO] index.js - 6.56
+[2022-06-21T17:17:30.474] [INFO] index.js - 1.28
+[2022-06-21T17:17:30.474] [INFO] index.js - 11.48
+[2022-06-21T17:17:30.474] [INFO] index.js - 4.83
+[2022-06-21T17:17:30.475] [INFO] index.js - 0.5
+[2022-06-21T17:17:30.475] [INFO] index.js - 9.08
+[2022-06-21T17:17:30.475] [INFO] index.js - 4.23
+[2022-06-21T17:17:30.475] [INFO] index.js - NaN
+[2022-06-21T17:17:30.476] [INFO] index.js - 1.92
+[2022-06-21T17:17:30.476] [INFO] index.js - 9.09
+[2022-06-21T17:17:30.476] [INFO] index.js - 9.4
+[2022-06-21T17:17:30.476] [INFO] index.js - 11.32
+[2022-06-21T17:17:30.476] [INFO] index.js - 11.57
+[2022-06-21T17:17:30.476] [INFO] index.js - 2.29
+[2022-06-21T17:17:30.476] [INFO] index.js - 9.96
+[2022-06-21T17:17:30.477] [INFO] index.js - 7.54
+[2022-06-21T17:17:30.477] [INFO] index.js - 2.39
+[2022-06-21T17:17:30.477] [INFO] index.js - 5.83
+[2022-06-21T17:17:30.477] [INFO] index.js - 10.85
+[2022-06-21T17:17:30.477] [INFO] index.js - 8.6
+[2022-06-21T17:17:30.477] [INFO] index.js - 1.11
+[2022-06-21T17:17:30.478] [INFO] index.js - 0.96
+[2022-06-21T17:17:30.478] [INFO] index.js - 11.79
+[2022-06-21T17:17:30.478] [INFO] index.js - 8.37
+[2022-06-21T17:17:30.478] [INFO] index.js - 1.27
+[2022-06-21T17:17:30.478] [INFO] index.js - 8.5
+[2022-06-21T17:17:30.479] [INFO] index.js - 8.91
+[2022-06-21T17:17:30.479] [INFO] index.js - 8.1
+[2022-06-21T17:17:30.479] [INFO] index.js - 6.38
+[2022-06-21T17:17:30.480] [INFO] index.js - 8.44
+[2022-06-21T17:17:30.480] [INFO] index.js - 10.91
+[2022-06-21T17:17:30.480] [INFO] index.js - 5.42
+[2022-06-21T17:19:26.367] [INFO] index.js - Program has Started
+[2022-06-21T17:19:26.370] [INFO] index.js - Program has Ended!
+[2022-06-21T17:19:26.376] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:19:26.376] [INFO] index.js - 8.94
+[2022-06-21T17:19:26.376] [INFO] index.js - 0.69
+[2022-06-21T17:19:26.376] [INFO] index.js - 10.73
+[2022-06-21T17:19:26.377] [INFO] index.js - 0.8
+[2022-06-21T17:19:26.377] [INFO] index.js - 9.01
+[2022-06-21T17:19:26.377] [INFO] index.js - 7.53
+[2022-06-21T17:19:26.378] [INFO] index.js - 7.43
+[2022-06-21T17:19:26.378] [INFO] index.js - 5.78
+[2022-06-21T17:19:26.378] [INFO] index.js - 10.29
+[2022-06-21T17:19:26.378] [INFO] index.js - 7.37
+[2022-06-21T17:19:26.378] [INFO] index.js - 9.84
+[2022-06-21T17:19:26.378] [INFO] index.js - 0.68
+[2022-06-21T17:19:26.378] [INFO] index.js - 6.56
+[2022-06-21T17:19:26.379] [INFO] index.js - 1.28
+[2022-06-21T17:19:26.379] [INFO] index.js - 11.48
+[2022-06-21T17:19:26.379] [INFO] index.js - 4.83
+[2022-06-21T17:19:26.379] [INFO] index.js - 0.5
+[2022-06-21T17:19:26.379] [INFO] index.js - 9.08
+[2022-06-21T17:19:26.379] [INFO] index.js - 4.23
+[2022-06-21T17:19:26.379] [WARN] index.js - Amount invalid!
+[2022-06-21T17:19:26.379] [WARN] index.js - Amount invalid!
+[2022-06-21T17:19:26.380] [INFO] index.js - NaN
+[2022-06-21T17:19:26.380] [INFO] index.js - 1.92
+[2022-06-21T17:19:26.380] [INFO] index.js - 9.09
+[2022-06-21T17:19:26.380] [INFO] index.js - 9.4
+[2022-06-21T17:19:26.380] [INFO] index.js - 11.32
+[2022-06-21T17:19:26.380] [INFO] index.js - 11.57
+[2022-06-21T17:19:26.380] [INFO] index.js - 2.29
+[2022-06-21T17:19:26.380] [INFO] index.js - 9.96
+[2022-06-21T17:19:26.380] [INFO] index.js - 7.54
+[2022-06-21T17:19:26.380] [INFO] index.js - 2.39
+[2022-06-21T17:19:26.380] [INFO] index.js - 5.83
+[2022-06-21T17:19:26.380] [INFO] index.js - 10.85
+[2022-06-21T17:19:26.381] [INFO] index.js - 8.6
+[2022-06-21T17:19:26.381] [INFO] index.js - 1.11
+[2022-06-21T17:19:26.381] [INFO] index.js - 0.96
+[2022-06-21T17:19:26.381] [INFO] index.js - 11.79
+[2022-06-21T17:19:26.381] [INFO] index.js - 8.37
+[2022-06-21T17:19:26.381] [INFO] index.js - 1.27
+[2022-06-21T17:19:26.381] [INFO] index.js - 8.5
+[2022-06-21T17:19:26.381] [INFO] index.js - 8.91
+[2022-06-21T17:19:26.382] [INFO] index.js - 8.1
+[2022-06-21T17:19:26.382] [INFO] index.js - 6.38
+[2022-06-21T17:19:26.382] [INFO] index.js - 8.44
+[2022-06-21T17:19:26.382] [INFO] index.js - 10.91
+[2022-06-21T17:19:26.382] [INFO] index.js - 5.42
+[2022-06-21T17:19:33.973] [INFO] index.js - Program has Started
+[2022-06-21T17:19:33.977] [INFO] index.js - Program has Ended!
+[2022-06-21T17:19:33.983] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:19:33.983] [INFO] index.js - 8.94
+[2022-06-21T17:19:33.983] [INFO] index.js - 0.69
+[2022-06-21T17:19:33.984] [INFO] index.js - 10.73
+[2022-06-21T17:19:33.984] [INFO] index.js - 0.8
+[2022-06-21T17:19:33.984] [INFO] index.js - 9.01
+[2022-06-21T17:19:33.984] [INFO] index.js - 7.53
+[2022-06-21T17:19:33.985] [INFO] index.js - 7.43
+[2022-06-21T17:19:33.985] [INFO] index.js - 5.78
+[2022-06-21T17:19:33.985] [INFO] index.js - 10.29
+[2022-06-21T17:19:33.985] [INFO] index.js - 7.37
+[2022-06-21T17:19:33.985] [INFO] index.js - 9.84
+[2022-06-21T17:19:33.985] [INFO] index.js - 0.68
+[2022-06-21T17:19:33.985] [INFO] index.js - 6.56
+[2022-06-21T17:19:33.986] [INFO] index.js - 1.28
+[2022-06-21T17:19:33.986] [INFO] index.js - 11.48
+[2022-06-21T17:19:33.986] [INFO] index.js - 4.83
+[2022-06-21T17:19:33.986] [INFO] index.js - 0.5
+[2022-06-21T17:19:33.986] [INFO] index.js - 9.08
+[2022-06-21T17:19:33.986] [INFO] index.js - 4.23
+[2022-06-21T17:19:33.986] [WARN] index.js - Amount invalid!
+[2022-06-21T17:19:33.986] [WARN] index.js - Amount invalid!
+[2022-06-21T17:19:33.986] [INFO] index.js - NaN
+[2022-06-21T17:19:33.987] [INFO] index.js - 1.92
+[2022-06-21T17:19:33.987] [INFO] index.js - 9.09
+[2022-06-21T17:19:33.987] [INFO] index.js - 9.4
+[2022-06-21T17:19:33.987] [INFO] index.js - 11.32
+[2022-06-21T17:19:33.987] [INFO] index.js - 11.57
+[2022-06-21T17:19:33.987] [INFO] index.js - 2.29
+[2022-06-21T17:19:33.987] [INFO] index.js - 9.96
+[2022-06-21T17:19:33.988] [INFO] index.js - 7.54
+[2022-06-21T17:19:33.988] [INFO] index.js - 2.39
+[2022-06-21T17:19:33.988] [INFO] index.js - 5.83
+[2022-06-21T17:19:33.988] [INFO] index.js - 10.85
+[2022-06-21T17:19:33.989] [INFO] index.js - 8.6
+[2022-06-21T17:19:33.989] [INFO] index.js - 1.11
+[2022-06-21T17:19:33.989] [INFO] index.js - 0.96
+[2022-06-21T17:19:33.989] [INFO] index.js - 11.79
+[2022-06-21T17:19:33.990] [INFO] index.js - 8.37
+[2022-06-21T17:19:33.990] [INFO] index.js - 1.27
+[2022-06-21T17:19:33.990] [INFO] index.js - 8.5
+[2022-06-21T17:19:33.990] [INFO] index.js - 8.91
+[2022-06-21T17:19:33.991] [INFO] index.js - 8.1
+[2022-06-21T17:19:33.991] [INFO] index.js - 6.38
+[2022-06-21T17:19:33.991] [INFO] index.js - 8.44
+[2022-06-21T17:19:33.992] [INFO] index.js - 10.91
+[2022-06-21T17:19:33.992] [INFO] index.js - 5.42
+[2022-06-21T17:22:05.163] [INFO] index.js - Program has Started
+[2022-06-21T17:22:05.166] [INFO] index.js - Program has Ended!
+[2022-06-21T17:22:05.172] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:22:05.172] [INFO] index.js - 8.94
+[2022-06-21T17:22:05.173] [INFO] index.js - 0.69
+[2022-06-21T17:22:05.173] [INFO] index.js - 10.73
+[2022-06-21T17:22:05.173] [INFO] index.js - 0.8
+[2022-06-21T17:22:05.174] [INFO] index.js - 9.01
+[2022-06-21T17:22:05.174] [INFO] index.js - 7.53
+[2022-06-21T17:22:05.174] [INFO] index.js - 7.43
+[2022-06-21T17:22:05.174] [INFO] index.js - 5.78
+[2022-06-21T17:22:05.175] [INFO] index.js - 10.29
+[2022-06-21T17:22:05.175] [INFO] index.js - 7.37
+[2022-06-21T17:22:05.175] [INFO] index.js - 9.84
+[2022-06-21T17:22:05.175] [INFO] index.js - 0.68
+[2022-06-21T17:22:05.176] [INFO] index.js - 6.56
+[2022-06-21T17:22:05.176] [INFO] index.js - 1.28
+[2022-06-21T17:22:05.176] [INFO] index.js - 11.48
+[2022-06-21T17:22:05.176] [INFO] index.js - 4.83
+[2022-06-21T17:22:05.176] [INFO] index.js - 0.5
+[2022-06-21T17:22:05.176] [INFO] index.js - 9.08
+[2022-06-21T17:22:05.176] [INFO] index.js - 4.23
+[2022-06-21T17:22:05.176] [WARN] index.js - Amount invalid!
+[2022-06-21T17:22:05.177] [WARN] index.js - Amount invalid!
+[2022-06-21T17:22:05.177] [INFO] index.js - NaN
+[2022-06-21T17:22:05.177] [INFO] index.js - 1.92
+[2022-06-21T17:22:05.177] [INFO] index.js - 9.09
+[2022-06-21T17:22:05.177] [INFO] index.js - 9.4
+[2022-06-21T17:22:05.178] [INFO] index.js - 11.32
+[2022-06-21T17:22:05.178] [INFO] index.js - 11.57
+[2022-06-21T17:22:05.178] [INFO] index.js - 2.29
+[2022-06-21T17:22:05.178] [INFO] index.js - 9.96
+[2022-06-21T17:22:05.178] [INFO] index.js - 7.54
+[2022-06-21T17:22:05.178] [INFO] index.js - 2.39
+[2022-06-21T17:22:05.178] [INFO] index.js - 5.83
+[2022-06-21T17:22:05.178] [INFO] index.js - 10.85
+[2022-06-21T17:22:05.178] [INFO] index.js - 8.6
+[2022-06-21T17:22:05.179] [INFO] index.js - 1.11
+[2022-06-21T17:22:05.179] [INFO] index.js - 0.96
+[2022-06-21T17:22:05.179] [INFO] index.js - 11.79
+[2022-06-21T17:22:05.179] [INFO] index.js - 8.37
+[2022-06-21T17:22:05.179] [INFO] index.js - 1.27
+[2022-06-21T17:22:05.179] [INFO] index.js - 8.5
+[2022-06-21T17:22:05.180] [INFO] index.js - 8.91
+[2022-06-21T17:22:05.180] [INFO] index.js - 8.1
+[2022-06-21T17:22:05.180] [INFO] index.js - 6.38
+[2022-06-21T17:22:05.180] [INFO] index.js - 8.44
+[2022-06-21T17:22:05.180] [INFO] index.js - 10.91
+[2022-06-21T17:22:05.180] [INFO] index.js - 5.42
+[2022-06-21T17:24:02.344] [INFO] index.js - Program has Started
+[2022-06-21T17:24:02.347] [INFO] index.js - Program has Ended!
+[2022-06-21T17:24:02.352] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:24:02.353] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:02.353] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:02.353] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:02.353] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:39.154] [INFO] index.js - Program has Started
+[2022-06-21T17:24:39.163] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:24:39.164] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:39.164] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:39.164] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:39.164] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:42.994] [INFO] index.js - Program has Ended!
+[2022-06-21T17:24:50.591] [INFO] index.js - Program has Started
+[2022-06-21T17:24:50.600] [INFO] index.js - Data is Loaded!
+[2022-06-21T17:24:50.601] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:50.601] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:50.601] [WARN] index.js - Amount invalid!
+[2022-06-21T17:24:50.601] [WARN] index.js - Date: 01/03/2015  From:Sam N  To:Ben B  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-21T17:24:55.855] [INFO] index.js - Program has Ended!
