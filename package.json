@@ -1,0 +1,22 @@
+{
+  "name": "supportbank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Softwire/SupportBank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Softwire/SupportBank/issues"
+  },
+  "homepage": "https://github.com/Alex-Softwire/SupportBank#readme",
+  "description": "",
+  "dependencies": {
+    "moment": "^2.29.3"
+  }
+}
