@@ -1,7 +1,7 @@
 import fs from "fs";
 import log4js from "log4js"
 import {parse} from "csv-parse";
-var csvFile = "Dodgy Transaction.csv";
+
 import readlineSync from 'readline-sync';
 import { Transaction } from "./Transaction.js"
 import { Person } from "./Person.js"
@@ -18,93 +18,91 @@ log4js.configure({
 const logger = log4js.getLogger("index.js")
 
 // MAIN CODE
-function ProcessFile() {
-    logger.info("Data is Loaded!")
+
+function CreateListOfPeople(TransactionList) {
     let Names = []
 
-    for (let i=1;i < userList.length;i++) {
-        let found_namea = 0
-        let found_nameb = 0
+    for (let i=1;i < TransactionList.length;i++) {
+        let found_name_from = false
+        let found_name_to = false
 
         for (let j=0;j < Names.length;j++) {
-            if (userList[i].From === Names[j].Name) {
-                found_namea = 1
-
-                if (isNaN(parseFloat(userList[i].Amount))) {
-                    logger.warn("Amount invalid!")
-                    logger.warn("Date: " + userList[i].Date + "  From:" + userList[i].To + "  To:" + userList[i].From + "  Narrative: " + userList[i].Narrative + "  Amount: " + userList[i].Amount)
-                }
-                else {
-                    Names[j].owe += parseFloat(userList[i].Amount)
-                }
-
+            if (TransactionList[i].From === Names[j].Name) {
+                found_name_from = true
+                Names[j].transactions_from.push(TransactionList[i])
             }
-            if (userList[i].To === Names[j].Name) {
-                found_nameb = 1
-                if (isNaN(parseFloat(userList[i].Amount))) {
-                    logger.warn("Amount invalid!")
-                    logger.warn("Date: " + userList[i].Date + "  From:" + userList[i].To + "  To:" + userList[i].From + "  Narrative: " + userList[i].Narrative + "  Amount: " + userList[i].Amount)
-                }
-                else{
-                    Names[j].owe -= parseFloat(userList[i].Amount)
-                }
-
+            if (TransactionList[i].To === Names[j].Name) {
+                found_name_to = true
+                Names[j].transactions_to.push(TransactionList[i])
             }
         }
-
-        if (found_namea === 0) {
-            Names.push(new Person(userList[i].From,0))
-            if (isNaN(parseFloat(userList[i].Amount))) {
-                logger.warn("Amount invalid!")
-                logger.warn("Date: " + userList[i].Date + "  From:" + userList[i].To + "  To:" + userList[i].From + "  Narrative: " + userList[i].Narrative + "  Amount: " + userList[i].Amount)
-            }
-            else {
-                Names[Names.length-1].owe += parseFloat(userList[i].Amount)
-            }
-
+        if (found_name_from === false) {
+            Names.push(new Person(TransactionList[i].From,0,[],[TransactionList[i]]))
         }
-        if (found_nameb === 0) {
-            Names.push(new Person(userList[i].To,0))
-            if (isNaN(parseFloat(userList[i].Amount))) {
-                logger.warn("Amount invalid!")
-                logger.warn("Date: " + userList[i].Date + "  From:" + userList[i].To + "  To:" + userList[i].From + "  Narrative: " + userList[i].Narrative + "  Amount: " + userList[i].Amount)
-
-            }
-            else {
-                Names[Names.length-1].owe -= parseFloat(userList[i].Amount)
-            }
-
+        if (found_name_to === false) {
+            Names.push(new Person(TransactionList[i].To,0,[TransactionList[i]],[]))
         }
     }
+    return Names
+}
+
+function ListAll(Names) {
+    logger.info("User has selected List All")
+    console.log("\nNames & Owes...")
+    for (let i = 0; i < Names.length;i++) {
+        Names[i].calculateowes()
+        Names[i].displayowes()
+    }
+}
+
+
+function ProgramMainBody() {
+    logger.info("Data is Loaded!")
+
+    let Names = CreateListOfPeople(TransactionList)
+
+    // DEAL WITH USER INPUT FUNCTIONS
     var input = readlineSync.question("")
 
+    // LIST ALL
     if (input === "List All") {
-        console.log("Names & Owes...")
-        for (let i = 0; i < Names.length;i++) {
-            console.log(Names[i].Name + " Owes: £" + (Names[i].owe).toFixed(2))
-        }
+        ListAll(Names)
     }
+    // LIST NAME
     for (let i = 0; i < Names.length;i++) {
-        if (input == "List "+Names[i].Name){
-            for (let j = 1; j < userList.length; j++) {
-                if ((userList[j].From === Names[i].Name) || (userList[j].To === Names[i].Name)) {
-                    console.log("Date: " + userList[i].Date + "  From:" + userList[i].To + "  To:" + userList[i].From + "  Narrative: " + userList[i].Narrative + "  Amount: " + userList[i].Amount)
-                }
-            }
+        if (input === "List "+Names[i].Name){
+            logger.info("User has selected List " + Names[i].Name)
+            Names[i].listalltransactions()
         }
     }
-    logger.info("Program has Ended!")
+    logger.info("Program has Ended!\n")
 }
 
-let userList = []
+let TransactionList = []
 
 function loadOneTransaction(csvRow) {
-    userList.push(new Transaction(csvRow[0], csvRow[1], csvRow[2], csvRow[3], csvRow[4]))
+    TransactionList.push(new Transaction(csvRow[0], csvRow[1], csvRow[2], csvRow[3], csvRow[4]))
 }
 logger.info("Program has Started")
-fs.createReadStream(csvFile)
-    .pipe(parse({delimiter: ','}))
-    .on('data', loadOneTransaction)
-    .on('end', () => ProcessFile())
 
-//{delimiter: ','}
+
+function ReadCsvFile(FileName) {
+    fs.createReadStream(FileName)
+        .pipe(parse({delimiter: ','}))
+        .on('data', loadOneTransaction)
+        .on('end', () => ProgramMainBody())
+}
+function ReadJsonFile(FileName) {
+    console.log("Sorry, we don't have the capabilites to do this right now...")
+}
+
+//Pre Processing Details
+var input = readlineSync.question("Name of File: ")
+
+if (!(input.search(".csv") === -1)) {
+    logger.info("User has opened " + input)
+    ReadCsvFile(input)
+}
+else if  (!(input.search(".json") === -1)) {
+    ReadJsonFile(input)
+}
