@@ -543,3 +543,476 @@
 [2022-06-22T13:28:12.083] [INFO] index.js - User has selected List Ben B
 [2022-06-22T13:28:12.090] [INFO] index.js - Program has Ended!
 
+[2022-06-22T13:41:50.249] [INFO] index.js - Program has Started
+[2022-06-22T13:42:02.045] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T13:42:02.081] [INFO] index.js - Data is Loaded!
+[2022-06-22T13:42:07.781] [INFO] index.js - User has selected List Jon A
+[2022-06-22T13:42:07.792] [INFO] index.js - Program has Ended!
+
+[2022-06-22T14:13:57.545] [INFO] index.js - Program has Started
+[2022-06-22T14:15:18.004] [INFO] index.js - Program has Started
+[2022-06-22T14:15:22.434] [INFO] index.js - Program has Started
+[2022-06-22T14:16:38.551] [INFO] index.js - Program has Started
+[2022-06-22T14:19:32.449] [INFO] index.js - Program has Started
+[2022-06-22T14:19:36.498] [INFO] index.js - Program has Started
+[2022-06-22T14:22:02.701] [INFO] index.js - Program has Started
+[2022-06-22T14:22:06.444] [INFO] index.js - Program has Started
+[2022-06-22T14:24:43.350] [INFO] index.js - Program has Started
+[2022-06-22T14:24:47.609] [INFO] index.js - Program has Started
+[2022-06-22T14:25:01.672] [INFO] index.js - Program has Started
+[2022-06-22T14:30:02.111] [INFO] index.js - Program has Started
+[2022-06-22T14:30:09.378] [INFO] index.js - Data is Loaded!
+[2022-06-22T14:30:59.688] [INFO] index.js - Program has Started
+[2022-06-22T16:38:22.364] [INFO] index.js - Program has Started
+[2022-06-22T16:38:30.919] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:38:47.500] [INFO] index.js - Program has Started
+[2022-06-22T16:38:54.347] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:38:54.368] [WARN] index.js - Amount invalid!
+[2022-06-22T16:38:54.370] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:39:06.235] [INFO] index.js - Program has Started
+[2022-06-22T16:39:13.979] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:39:13.992] [WARN] index.js - Amount invalid!
+[2022-06-22T16:39:13.993] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:39:51.418] [INFO] index.js - Program has Started
+[2022-06-22T16:39:59.489] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:39:59.508] [WARN] index.js - Amount invalid!
+[2022-06-22T16:39:59.510] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:39:59.532] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:41:36.969] [INFO] index.js - Program has Started
+[2022-06-22T16:41:44.249] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:41:44.264] [WARN] index.js - Amount invalid!
+[2022-06-22T16:41:44.265] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:41:44.297] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:43:32.398] [INFO] index.js - Program has Started
+[2022-06-22T16:43:38.549] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:43:38.561] [WARN] index.js - Amount invalid!
+[2022-06-22T16:43:38.562] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:43:38.584] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:43:52.266] [INFO] index.js - Program has Started
+[2022-06-22T16:43:59.230] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:43:59.241] [WARN] index.js - Amount invalid!
+[2022-06-22T16:43:59.242] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:43:59.254] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:44:23.698] [INFO] index.js - Program has Started
+[2022-06-22T16:44:36.430] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:44:36.438] [WARN] index.js - Amount invalid!
+[2022-06-22T16:44:36.438] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:44:36.452] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:44:45.755] [INFO] index.js - User has selected List All
+[2022-06-22T16:46:37.254] [INFO] index.js - Program has Started
+[2022-06-22T16:46:46.237] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:46:46.256] [WARN] index.js - Amount invalid!
+[2022-06-22T16:46:46.258] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:46:46.282] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:46:51.913] [INFO] index.js - User has selected List All
+[2022-06-22T16:46:51.920] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:49:18.281] [INFO] index.js - Program has Started
+[2022-06-22T16:49:25.551] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:49:25.563] [WARN] index.js - Amount invalid!
+[2022-06-22T16:49:25.563] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:49:25.586] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:49:29.577] [INFO] index.js - User has selected List All
+[2022-06-22T16:49:29.581] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:50:46.907] [INFO] index.js - Program has Started
+[2022-06-22T16:50:57.962] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:50:57.980] [WARN] index.js - Amount invalid!
+[2022-06-22T16:50:57.981] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:50:58.012] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:51:03.177] [INFO] index.js - User has selected List Jon A
+[2022-06-22T16:51:03.186] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:54:11.061] [INFO] index.js - Program has Started
+[2022-06-22T16:54:19.301] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:54:19.317] [WARN] index.js - Amount invalid!
+[2022-06-22T16:54:19.318] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:54:19.341] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:54:22.617] [INFO] index.js - User has selected List All
+[2022-06-22T16:54:22.622] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:55:52.236] [INFO] index.js - Program has Started
+[2022-06-22T16:56:01.349] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T16:56:01.374] [WARN] index.js - Amount invalid!
+[2022-06-22T16:56:01.375] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:56:01.386] [WARN] index.js - Amount invalid!
+[2022-06-22T16:56:01.387] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T16:56:01.389] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:56:06.793] [INFO] index.js - User has selected List All
+[2022-06-22T16:56:06.798] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:57:13.607] [INFO] index.js - Program has Started
+[2022-06-22T16:57:22.497] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T16:57:22.518] [WARN] index.js - Amount invalid!
+[2022-06-22T16:57:22.519] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:57:22.552] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:57:26.309] [INFO] index.js - User has selected List All
+[2022-06-22T16:57:26.314] [INFO] index.js - Program has Ended!
+
+[2022-06-22T16:57:34.933] [INFO] index.js - Program has Started
+[2022-06-22T16:57:52.213] [INFO] index.js - Program has Started
+[2022-06-22T16:58:07.984] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T16:58:07.996] [WARN] index.js - Amount invalid!
+[2022-06-22T16:58:07.996] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T16:58:08.001] [WARN] index.js - Amount invalid!
+[2022-06-22T16:58:08.002] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T16:58:08.014] [INFO] index.js - Data is Loaded!
+[2022-06-22T16:58:14.802] [INFO] index.js - User has selected List Ben B
+[2022-06-22T16:58:14.807] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:00:32.560] [INFO] index.js - Program has Started
+[2022-06-22T17:00:40.507] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:00:40.525] [WARN] index.js - Amount invalid!
+[2022-06-22T17:00:40.526] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T17:00:40.531] [WARN] index.js - Amount invalid!
+[2022-06-22T17:00:40.531] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:00:40.540] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:00:45.985] [INFO] index.js - User has selected List All
+[2022-06-22T17:00:45.992] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:01:09.601] [INFO] index.js - Program has Started
+[2022-06-22T17:01:21.506] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:01:21.517] [WARN] index.js - Amount invalid!
+[2022-06-22T17:01:21.518] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T17:01:21.522] [WARN] index.js - Amount invalid!
+[2022-06-22T17:01:21.523] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:01:21.534] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:01:30.490] [INFO] index.js - User has selected List All
+[2022-06-22T17:01:30.497] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:01:37.016] [INFO] index.js - Program has Started
+[2022-06-22T17:01:44.232] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:01:44.245] [WARN] index.js - Amount invalid!
+[2022-06-22T17:01:44.246] [WARN] index.js - Date: Date  From: From  To: To  Narrative: Narrative  Amount: Amount
+[2022-06-22T17:01:44.251] [WARN] index.js - Amount invalid!
+[2022-06-22T17:01:44.251] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:01:44.260] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:01:48.106] [INFO] index.js - User has selected List Stephen S
+[2022-06-22T17:01:48.115] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:05:51.076] [INFO] index.js - Program has Started
+[2022-06-22T17:05:58.418] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:05:58.433] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.434] [WARN] index.js - Date: 01/01/2015  From: Laura B  To: Sarah T  Narrative: Misc Morale  Amount: 10.54
+[2022-06-22T17:05:58.434] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.435] [WARN] index.js - Date: 04/01/2015  From: Stephen S  To: Gergana I  Narrative: Lunch  Amount: 3.22
+[2022-06-22T17:05:58.436] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.436] [WARN] index.js - Date: 07/01/2015  From: Ben B  To: Jon A  Narrative: Fantasy Football  Amount: 9.93
+[2022-06-22T17:05:58.437] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.438] [WARN] index.js - Date: 11/01/2015  From: Ben B  To: Todd  Narrative: Lunch  Amount: 7.33
+[2022-06-22T17:05:58.438] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.439] [WARN] index.js - Date: 12/01/2015  From: Laura B  To: Ben B  Narrative: Beers  Amount: 8.94
+[2022-06-22T17:05:58.439] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.440] [WARN] index.js - Date: 15/01/2015  From: Todd  To: Rob S  Narrative: Beers  Amount: 10.19
+[2022-06-22T17:05:58.440] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.441] [WARN] index.js - Date: 16/01/2015  From: Laura B  To: Jon A  Narrative: Lego Assistance  Amount: 0.69
+[2022-06-22T17:05:58.441] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.442] [WARN] index.js - Date: 18/01/2015  From: Jon A  To: Sarah T  Narrative: Coffee  Amount: 10.73
+[2022-06-22T17:05:58.443] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.443] [WARN] index.js - Date: 22/01/2015  From: Gergana I  To: Todd  Narrative: Coffee  Amount: 0.8
+[2022-06-22T17:05:58.444] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.444] [WARN] index.js - Date: 24/01/2015  From: Gergana I  To: Chris W  Narrative: Coffee  Amount: 8.49
+[2022-06-22T17:05:58.445] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.445] [WARN] index.js - Date: 27/01/2015  From: Laura B  To: Tim L  Narrative: Jenkins Fees  Amount: 0.52
+[2022-06-22T17:05:58.445] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.446] [WARN] index.js - Date: 29/01/2015  From: Sam N  To: Chris W  Narrative: Lunch  Amount: 9.01
+[2022-06-22T17:05:58.446] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.447] [WARN] index.js - Date: 01/02/2015  From: Stephen S  To: Laura B  Narrative: Coffee  Amount: 7.53
+[2022-06-22T17:05:58.447] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.447] [WARN] index.js - Date: 02/02/2015  From: Stephen S  To: Rob S  Narrative: Fantasy Football  Amount: 7.43
+[2022-06-22T17:05:58.448] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.448] [WARN] index.js - Date: 04/02/2015  From: Rob S  To: Stephen S  Narrative: Fantasy Football  Amount: 5.78
+[2022-06-22T17:05:58.449] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.449] [WARN] index.js - Date: 06/02/2015  From: Dan W  To: Gergana I  Narrative: Automated Testing Services  Amount: 10.29
+[2022-06-22T17:05:58.449] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.450] [WARN] index.js - Date: 07/02/2015  From: Jon A  To: Chris W  Narrative: Rails Consultancy  Amount: 7.37
+[2022-06-22T17:05:58.450] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.450] [WARN] index.js - Date: 10/02/2015  From: Sam N  To: Gergana I  Narrative: Sandbox Help  Amount: 9.84
+[2022-06-22T17:05:58.451] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.451] [WARN] index.js - Date: 11/02/2015  From: Chris W  To: Stephen S  Narrative: Misc Morale  Amount: 0.68
+[2022-06-22T17:05:58.451] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.452] [WARN] index.js - Date: 13/02/2015  From: Laura B  To: Gergana I  Narrative: Beers  Amount: 6.56
+[2022-06-22T17:05:58.452] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.452] [WARN] index.js - Date: 16/02/2015  From: Chris W  To: Dan W  Narrative: Jenkins Fees  Amount: 1.28
+[2022-06-22T17:05:58.453] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.453] [WARN] index.js - Date: 17/02/2015  From: Sarah T  To: Dan W  Narrative: Sandbox Help  Amount: 11.48
+[2022-06-22T17:05:58.453] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.454] [WARN] index.js - Date: 18/02/2015  From: Stephen S  To: Rob S  Narrative: Lego Assistance  Amount: 4.83
+[2022-06-22T17:05:58.454] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.455] [WARN] index.js - Date: 21/02/2015  From: Dan W  To: Ben B  Narrative: Pokemon Training  Amount: 0.5
+[2022-06-22T17:05:58.455] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.455] [WARN] index.js - Date: 24/02/2015  From: Todd  To: Gergana I  Narrative: Coffee  Amount: 9.08
+[2022-06-22T17:05:58.456] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.456] [WARN] index.js - Date: 26/02/2015  From: Stephen S  To: Jon A  Narrative: Pokemon Training  Amount: 4.23
+[2022-06-22T17:05:58.456] [WARN] index.js - Amount invalid!
+[2022-06-22T17:05:58.457] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:05:58.457] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.458] [WARN] index.js - Date: 02/03/2015  From: Todd  To: Chris W  Narrative: Sandbox Help  Amount: 1.92
+[2022-06-22T17:05:58.458] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.458] [WARN] index.js - Date: 04/03/2015  From: Laura B  To: Jon A  Narrative: Sandcastle Help  Amount: 9.09
+[2022-06-22T17:05:58.459] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.459] [WARN] index.js - Date: 06/03/2015  From: Stephen S  To: Gergana I  Narrative: Lego Assistance  Amount: 9.4
+[2022-06-22T17:05:58.459] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.460] [WARN] index.js - Date: 08/03/2015  From: Ben B  To: Sam N  Narrative: Pokemon Training  Amount: 11.32
+[2022-06-22T17:05:58.460] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.460] [WARN] index.js - Date: 11/03/2015  From: Stephen S  To: Jon A  Narrative: Sandcastle Help  Amount: 11.57
+[2022-06-22T17:05:58.461] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.461] [WARN] index.js - Date: 15/03/2015  From: Todd  To: Sam N  Narrative: Pokemon Training  Amount: 2.29
+[2022-06-22T17:05:58.461] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.462] [WARN] index.js - Date: 19/03/2015  From: Laura B  To: Chris W  Narrative: Coffee  Amount: 9.96
+[2022-06-22T17:05:58.462] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.462] [WARN] index.js - Date: 21/03/2015  From: Jon A  To: Gergana I  Narrative: Beers  Amount: 7.54
+[2022-06-22T17:05:58.463] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.463] [WARN] index.js - Date: 25/03/2015  From: Gergana I  To: Ben B  Narrative: Automated Testing Services  Amount: 2.39
+[2022-06-22T17:05:58.463] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.464] [WARN] index.js - Date: 28/03/2015  From: Stephen S  To: Tim L  Narrative: Lunch  Amount: 5.83
+[2022-06-22T17:05:58.464] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.464] [WARN] index.js - Date: 29/03/2015  From: Gergana I  To: Ben B  Narrative: Audit and Other Financial Services  Amount: 10.85
+[2022-06-22T17:05:58.465] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.465] [WARN] index.js - Date: 30/03/2015  From: Tim L  To: Todd  Narrative: Pokemon Training  Amount: 8.6
+[2022-06-22T17:05:58.466] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.466] [WARN] index.js - Date: 02/04/2015  From: Stephen S  To: Chris W  Narrative: Pokemon Training  Amount: 1.11
+[2022-06-22T17:05:58.467] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.467] [WARN] index.js - Date: 05/04/2015  From: Chris W  To: Ben B  Narrative: Lunch  Amount: 0.96
+[2022-06-22T17:05:58.467] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.468] [WARN] index.js - Date: 09/04/2015  From: Chris W  To: Rob S  Narrative: Audit and Other Financial Services  Amount: 11.79
+[2022-06-22T17:05:58.468] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.469] [WARN] index.js - Date: 12/04/2015  From: Gergana I  To: Laura B  Narrative: Stationary Items  Amount: 8.37
+[2022-06-22T17:05:58.469] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.469] [WARN] index.js - Date: 13/04/2015  From: Laura B  To: Tim L  Narrative: Services Rendered  Amount: 1.27
+[2022-06-22T17:05:58.470] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.470] [WARN] index.js - Date: 15/04/2015  From: Ben B  To: Sam N  Narrative: Lego Assistance  Amount: 8.5
+[2022-06-22T17:05:58.470] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.470] [WARN] index.js - Date: 19/04/2015  From: Stephen S  To: Chris W  Narrative: White Water Rafting  Amount: 8.91
+[2022-06-22T17:05:58.471] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.471] [WARN] index.js - Date: 23/04/2015  From: Tim L  To: Todd  Narrative: Misc Morale  Amount: 8.1
+[2022-06-22T17:05:58.472] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.472] [WARN] index.js - Date: 24/04/2015  From: Tim L  To: Sarah T  Narrative: Arcade Social  Amount: 6.38
+[2022-06-22T17:05:58.472] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.472] [WARN] index.js - Date: 26/04/2015  From: Jon A  To: Todd  Narrative: Stationary Items  Amount: 8.44
+[2022-06-22T17:05:58.473] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.473] [WARN] index.js - Date: 27/04/2015  From: Ben B  To: Jon A  Narrative: Pokemon Training  Amount: 10.91
+[2022-06-22T17:05:58.476] [WARN] index.js - Date Invalid!
+[2022-06-22T17:05:58.476] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T17:05:58.477] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:06:01.121] [INFO] index.js - User has selected List All
+[2022-06-22T17:06:01.123] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:06:19.989] [INFO] index.js - Program has Started
+[2022-06-22T17:06:29.205] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:06:29.232] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.236] [WARN] index.js - Date: 15/01/2015  From: Todd  To: Rob S  Narrative: Beers  Amount: 10.19
+[2022-06-22T17:06:29.237] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.237] [WARN] index.js - Date: 16/01/2015  From: Laura B  To: Jon A  Narrative: Lego Assistance  Amount: 0.69
+[2022-06-22T17:06:29.238] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.240] [WARN] index.js - Date: 18/01/2015  From: Jon A  To: Sarah T  Narrative: Coffee  Amount: 10.73
+[2022-06-22T17:06:29.241] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.243] [WARN] index.js - Date: 22/01/2015  From: Gergana I  To: Todd  Narrative: Coffee  Amount: 0.8
+[2022-06-22T17:06:29.244] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.245] [WARN] index.js - Date: 24/01/2015  From: Gergana I  To: Chris W  Narrative: Coffee  Amount: 8.49
+[2022-06-22T17:06:29.245] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.247] [WARN] index.js - Date: 27/01/2015  From: Laura B  To: Tim L  Narrative: Jenkins Fees  Amount: 0.52
+[2022-06-22T17:06:29.248] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.249] [WARN] index.js - Date: 29/01/2015  From: Sam N  To: Chris W  Narrative: Lunch  Amount: 9.01
+[2022-06-22T17:06:29.257] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.257] [WARN] index.js - Date: 13/02/2015  From: Laura B  To: Gergana I  Narrative: Beers  Amount: 6.56
+[2022-06-22T17:06:29.258] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.259] [WARN] index.js - Date: 16/02/2015  From: Chris W  To: Dan W  Narrative: Jenkins Fees  Amount: 1.28
+[2022-06-22T17:06:29.259] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.260] [WARN] index.js - Date: 17/02/2015  From: Sarah T  To: Dan W  Narrative: Sandbox Help  Amount: 11.48
+[2022-06-22T17:06:29.261] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.261] [WARN] index.js - Date: 18/02/2015  From: Stephen S  To: Rob S  Narrative: Lego Assistance  Amount: 4.83
+[2022-06-22T17:06:29.262] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.263] [WARN] index.js - Date: 21/02/2015  From: Dan W  To: Ben B  Narrative: Pokemon Training  Amount: 0.5
+[2022-06-22T17:06:29.264] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.264] [WARN] index.js - Date: 24/02/2015  From: Todd  To: Gergana I  Narrative: Coffee  Amount: 9.08
+[2022-06-22T17:06:29.266] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.266] [WARN] index.js - Date: 26/02/2015  From: Stephen S  To: Jon A  Narrative: Pokemon Training  Amount: 4.23
+[2022-06-22T17:06:29.267] [WARN] index.js - Amount invalid!
+[2022-06-22T17:06:29.267] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:06:29.269] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.269] [WARN] index.js - Date: 15/03/2015  From: Todd  To: Sam N  Narrative: Pokemon Training  Amount: 2.29
+[2022-06-22T17:06:29.270] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.271] [WARN] index.js - Date: 19/03/2015  From: Laura B  To: Chris W  Narrative: Coffee  Amount: 9.96
+[2022-06-22T17:06:29.272] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.272] [WARN] index.js - Date: 21/03/2015  From: Jon A  To: Gergana I  Narrative: Beers  Amount: 7.54
+[2022-06-22T17:06:29.273] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.273] [WARN] index.js - Date: 25/03/2015  From: Gergana I  To: Ben B  Narrative: Automated Testing Services  Amount: 2.39
+[2022-06-22T17:06:29.274] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.275] [WARN] index.js - Date: 28/03/2015  From: Stephen S  To: Tim L  Narrative: Lunch  Amount: 5.83
+[2022-06-22T17:06:29.276] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.277] [WARN] index.js - Date: 29/03/2015  From: Gergana I  To: Ben B  Narrative: Audit and Other Financial Services  Amount: 10.85
+[2022-06-22T17:06:29.278] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.279] [WARN] index.js - Date: 30/03/2015  From: Tim L  To: Todd  Narrative: Pokemon Training  Amount: 8.6
+[2022-06-22T17:06:29.280] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.280] [WARN] index.js - Date: 13/04/2015  From: Laura B  To: Tim L  Narrative: Services Rendered  Amount: 1.27
+[2022-06-22T17:06:29.281] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.282] [WARN] index.js - Date: 15/04/2015  From: Ben B  To: Sam N  Narrative: Lego Assistance  Amount: 8.5
+[2022-06-22T17:06:29.283] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.283] [WARN] index.js - Date: 19/04/2015  From: Stephen S  To: Chris W  Narrative: White Water Rafting  Amount: 8.91
+[2022-06-22T17:06:29.284] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.285] [WARN] index.js - Date: 23/04/2015  From: Tim L  To: Todd  Narrative: Misc Morale  Amount: 8.1
+[2022-06-22T17:06:29.285] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.286] [WARN] index.js - Date: 24/04/2015  From: Tim L  To: Sarah T  Narrative: Arcade Social  Amount: 6.38
+[2022-06-22T17:06:29.286] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.287] [WARN] index.js - Date: 26/04/2015  From: Jon A  To: Todd  Narrative: Stationary Items  Amount: 8.44
+[2022-06-22T17:06:29.288] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.288] [WARN] index.js - Date: 27/04/2015  From: Ben B  To: Jon A  Narrative: Pokemon Training  Amount: 10.91
+[2022-06-22T17:06:29.293] [WARN] index.js - Date Invalid!
+[2022-06-22T17:06:29.293] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T17:06:29.296] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:07:10.954] [INFO] index.js - User has selected List All
+[2022-06-22T17:07:10.960] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:13:02.543] [INFO] index.js - Program has Started
+[2022-06-22T17:13:09.519] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:13:09.538] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.538] [WARN] index.js - Date: 15/01/2015  From: Todd  To: Rob S  Narrative: Beers  Amount: 10.19
+[2022-06-22T17:13:09.539] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.540] [WARN] index.js - Date: 16/01/2015  From: Laura B  To: Jon A  Narrative: Lego Assistance  Amount: 0.69
+[2022-06-22T17:13:09.540] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.541] [WARN] index.js - Date: 18/01/2015  From: Jon A  To: Sarah T  Narrative: Coffee  Amount: 10.73
+[2022-06-22T17:13:09.541] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.542] [WARN] index.js - Date: 22/01/2015  From: Gergana I  To: Todd  Narrative: Coffee  Amount: 0.8
+[2022-06-22T17:13:09.543] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.543] [WARN] index.js - Date: 24/01/2015  From: Gergana I  To: Chris W  Narrative: Coffee  Amount: 8.49
+[2022-06-22T17:13:09.544] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.544] [WARN] index.js - Date: 27/01/2015  From: Laura B  To: Tim L  Narrative: Jenkins Fees  Amount: 0.52
+[2022-06-22T17:13:09.545] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.546] [WARN] index.js - Date: 29/01/2015  From: Sam N  To: Chris W  Narrative: Lunch  Amount: 9.01
+[2022-06-22T17:13:09.548] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.548] [WARN] index.js - Date: 13/02/2015  From: Laura B  To: Gergana I  Narrative: Beers  Amount: 6.56
+[2022-06-22T17:13:09.549] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.549] [WARN] index.js - Date: 16/02/2015  From: Chris W  To: Dan W  Narrative: Jenkins Fees  Amount: 1.28
+[2022-06-22T17:13:09.549] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.550] [WARN] index.js - Date: 17/02/2015  From: Sarah T  To: Dan W  Narrative: Sandbox Help  Amount: 11.48
+[2022-06-22T17:13:09.550] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.550] [WARN] index.js - Date: 18/02/2015  From: Stephen S  To: Rob S  Narrative: Lego Assistance  Amount: 4.83
+[2022-06-22T17:13:09.551] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.551] [WARN] index.js - Date: 21/02/2015  From: Dan W  To: Ben B  Narrative: Pokemon Training  Amount: 0.5
+[2022-06-22T17:13:09.552] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.552] [WARN] index.js - Date: 24/02/2015  From: Todd  To: Gergana I  Narrative: Coffee  Amount: 9.08
+[2022-06-22T17:13:09.552] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.553] [WARN] index.js - Date: 26/02/2015  From: Stephen S  To: Jon A  Narrative: Pokemon Training  Amount: 4.23
+[2022-06-22T17:13:09.553] [WARN] index.js - Amount invalid!
+[2022-06-22T17:13:09.553] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:13:09.554] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.555] [WARN] index.js - Date: 15/03/2015  From: Todd  To: Sam N  Narrative: Pokemon Training  Amount: 2.29
+[2022-06-22T17:13:09.555] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.555] [WARN] index.js - Date: 19/03/2015  From: Laura B  To: Chris W  Narrative: Coffee  Amount: 9.96
+[2022-06-22T17:13:09.556] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.557] [WARN] index.js - Date: 21/03/2015  From: Jon A  To: Gergana I  Narrative: Beers  Amount: 7.54
+[2022-06-22T17:13:09.557] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.558] [WARN] index.js - Date: 25/03/2015  From: Gergana I  To: Ben B  Narrative: Automated Testing Services  Amount: 2.39
+[2022-06-22T17:13:09.558] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.558] [WARN] index.js - Date: 28/03/2015  From: Stephen S  To: Tim L  Narrative: Lunch  Amount: 5.83
+[2022-06-22T17:13:09.559] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.559] [WARN] index.js - Date: 29/03/2015  From: Gergana I  To: Ben B  Narrative: Audit and Other Financial Services  Amount: 10.85
+[2022-06-22T17:13:09.559] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.560] [WARN] index.js - Date: 30/03/2015  From: Tim L  To: Todd  Narrative: Pokemon Training  Amount: 8.6
+[2022-06-22T17:13:09.560] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.560] [WARN] index.js - Date: 13/04/2015  From: Laura B  To: Tim L  Narrative: Services Rendered  Amount: 1.27
+[2022-06-22T17:13:09.560] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.561] [WARN] index.js - Date: 15/04/2015  From: Ben B  To: Sam N  Narrative: Lego Assistance  Amount: 8.5
+[2022-06-22T17:13:09.561] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.561] [WARN] index.js - Date: 19/04/2015  From: Stephen S  To: Chris W  Narrative: White Water Rafting  Amount: 8.91
+[2022-06-22T17:13:09.561] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.561] [WARN] index.js - Date: 23/04/2015  From: Tim L  To: Todd  Narrative: Misc Morale  Amount: 8.1
+[2022-06-22T17:13:09.561] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.561] [WARN] index.js - Date: 24/04/2015  From: Tim L  To: Sarah T  Narrative: Arcade Social  Amount: 6.38
+[2022-06-22T17:13:09.562] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.562] [WARN] index.js - Date: 26/04/2015  From: Jon A  To: Todd  Narrative: Stationary Items  Amount: 8.44
+[2022-06-22T17:13:09.563] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.563] [WARN] index.js - Date: 27/04/2015  From: Ben B  To: Jon A  Narrative: Pokemon Training  Amount: 10.91
+[2022-06-22T17:13:09.565] [WARN] index.js - Date Invalid!
+[2022-06-22T17:13:09.566] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T17:13:09.566] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:13:16.446] [INFO] index.js - User has selected List All
+[2022-06-22T17:13:16.449] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:13:52.189] [INFO] index.js - Program has Started
+[2022-06-22T17:14:06.347] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:14:06.388] [WARN] index.js - Amount invalid!
+[2022-06-22T17:14:06.389] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:14:06.406] [WARN] index.js - Date Invalid!
+[2022-06-22T17:14:06.408] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T17:14:06.410] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:14:11.452] [INFO] index.js - User has selected List All
+[2022-06-22T17:14:11.459] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:14:32.130] [INFO] index.js - Program has Started
+[2022-06-22T17:14:39.740] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T17:14:39.774] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:16:32.892] [INFO] index.js - Program has Started
+[2022-06-22T17:16:52.232] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T17:16:52.292] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:18:37.965] [INFO] index.js - User has selected List All
+[2022-06-22T17:18:37.973] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:19:46.512] [INFO] index.js - Program has Started
+[2022-06-22T17:20:02.171] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T17:20:02.236] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:20:07.579] [INFO] index.js - User has selected List Todd
+[2022-06-22T17:20:07.588] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:20:13.993] [INFO] index.js - Program has Started
+[2022-06-22T17:20:28.795] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T17:20:28.824] [WARN] index.js - Amount invalid!
+[2022-06-22T17:20:28.825] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T17:20:28.832] [WARN] index.js - Date Invalid!
+[2022-06-22T17:20:28.833] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T17:20:28.835] [INFO] index.js - Data is Loaded!
+[2022-06-22T17:20:37.467] [INFO] index.js - User has selected List All
+[2022-06-22T17:20:37.472] [INFO] index.js - Program has Ended!
+
+[2022-06-22T17:37:55.994] [INFO] index.js - Program has Started
+[2022-06-22T17:41:51.266] [INFO] index.js - Program has Started
+[2022-06-22T17:44:17.391] [INFO] index.js - Program has Started
+[2022-06-22T17:44:52.845] [INFO] index.js - Program has Started
+[2022-06-22T17:45:55.366] [INFO] index.js - Program has Started
+[2022-06-22T17:46:42.713] [INFO] index.js - Program has Started
+[2022-06-22T17:47:05.510] [INFO] index.js - Program has Started
+[2022-06-22T17:48:00.613] [INFO] index.js - Program has Started
+[2022-06-22T17:50:40.048] [INFO] index.js - Program has Started
+[2022-06-22T17:50:53.051] [INFO] index.js - Program has Started
+[2022-06-22T17:59:32.122] [INFO] index.js - Program has Started
+[2022-06-22T18:00:03.738] [INFO] index.js - Program has Started
+[2022-06-22T18:00:39.170] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:00:45.475] [INFO] index.js - User has selected List All
+[2022-06-22T18:00:45.478] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:00:45.479] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:00:47.895] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:00:47.896] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:00:48.455] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:00:48.456] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:00:48.629] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:00:48.631] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:01:17.595] [INFO] index.js - Program has Started
+[2022-06-22T18:01:19.568] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:02:42.640] [INFO] index.js - Program has Started
+[2022-06-22T18:02:49.031] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:03:09.504] [INFO] index.js - Program has Started
+[2022-06-22T18:03:16.015] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:04:21.568] [INFO] index.js - Program has Started
+[2022-06-22T18:04:31.676] [INFO] index.js - User has opened Transactions2013.json
+[2022-06-22T18:04:31.734] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:04:34.791] [INFO] index.js - User has selected List All
+[2022-06-22T18:04:34.795] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:04:40.325] [INFO] index.js - Program has Started
+[2022-06-22T18:04:57.429] [INFO] index.js - Program has Started
+[2022-06-22T18:05:15.151] [INFO] index.js - User has opened Transactions2013.json
+[2022-06-22T18:05:15.152] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:05:18.451] [INFO] index.js - User has selected List Todd
+[2022-06-22T18:05:18.466] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:09:34.055] [INFO] index.js - Program has Started
+[2022-06-22T18:09:41.498] [INFO] index.js - User has opened Transactions2013.json
+[2022-06-22T18:09:41.500] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:09:43.194] [INFO] index.js - User has selected List All
+[2022-06-22T18:09:43.201] [INFO] index.js - Program has Ended!
+

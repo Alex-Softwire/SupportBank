@@ -1,10 +1,10 @@
 import fs from "fs";
 import log4js from "log4js"
 import {parse} from "csv-parse";
-
+import moment from "moment"
 import readlineSync from 'readline-sync';
-import { Transaction } from "./Transaction.js"
-import { Person } from "./Person.js"
+import { transaction } from "./transaction.js"
+import { person } from "./person.js"
 
 // LOGGING CODE
 log4js.configure({
@@ -19,90 +19,110 @@ const logger = log4js.getLogger("index.js")
 
 // MAIN CODE
 
-function CreateListOfPeople(TransactionList) {
-    let Names = []
+function create_list_of_people(transactions_list) {
+    let people_list = []
+    for (let i = 1; i < transactions_list.length; i++) {
 
-    for (let i=1;i < TransactionList.length;i++) {
-        let found_name_from = false
-        let found_name_to = false
+        let person_from = people_list.find(person => person.name === transactions_list[i].from)
+        if (!person_from) {
+            person_from = new person(transactions_list[i].from, 0, [], [])
+            people_list.push(person_from)
+        }
+        person_from.transactions_from.push(transactions_list[i])
+        person_from.amount_owed += parseFloat(transactions_list[i].amount)
 
-        for (let j=0;j < Names.length;j++) {
-            if (TransactionList[i].From === Names[j].Name) {
-                found_name_from = true
-                Names[j].transactions_from.push(TransactionList[i])
-            }
-            if (TransactionList[i].To === Names[j].Name) {
-                found_name_to = true
-                Names[j].transactions_to.push(TransactionList[i])
-            }
+        let person_to = people_list.find(person => person.name === transactions_list[i].to)
+        if (!person_to) {
+            person_to = new person(transactions_list[i].to, 0, [], [])
+            people_list.push(person_to)
         }
-        if (found_name_from === false) {
-            Names.push(new Person(TransactionList[i].From,0,[],[TransactionList[i]]))
-        }
-        if (found_name_to === false) {
-            Names.push(new Person(TransactionList[i].To,0,[TransactionList[i]],[]))
-        }
+        person_to.transactions_to.push(transactions_list[i])
+        person_to.amount_owed -= parseFloat(transactions_list[i].amount)
     }
-    return Names
+    return people_list
 }
 
-function ListAll(Names) {
+function list_all(people_list) {
     logger.info("User has selected List All")
     console.log("\nNames & Owes...")
-    for (let i = 0; i < Names.length;i++) {
-        Names[i].calculateamountowed()
-        Names[i].displayamountowed()
+    for (let i = 0; i < people_list.length; i++) {
+        people_list[i].display_amount_owed()
     }
 }
 
-
-function ProgramMainBody() {
+function program_main_body() {
     logger.info("Data is Loaded!")
 
-    let Names = CreateListOfPeople(TransactionList)
+    let people_list = create_list_of_people(transactions_list)
 
-    // DEAL WITH USER INPUT FUNCTIONS
+        // DEAL WITH USER INPUT FUNCTIONS
     var input = readlineSync.question("")
 
-    // LIST ALL
+        // LIST ALL
     if (input === "List All") {
-        ListAll(Names)
+        list_all(people_list)
     }
-    // LIST NAME
-    for (let i = 0; i < Names.length;i++) {
-        if (input === "List "+Names[i].Name){
-            logger.info("User has selected List " + Names[i].Name)
-            Names[i].listalltransactions()
+        // LIST NAME
+    for (let i = 0; i < people_list.length; i++) {
+        if (input === "List " + people_list[i].name) {
+            logger.info("User has selected List " + people_list[i].name)
+            people_list[i].list_all_transactions()
         }
     }
     logger.info("Program has Ended!\n")
 }
 
-let TransactionList = []
-
-function loadOneTransaction(csvRow) {
-    TransactionList.push(new Transaction(csvRow[0], csvRow[1], csvRow[2], csvRow[3], csvRow[4]))
+function check_data_for_errors(file_row) {
+    if (file_row[0] === "Date") {
+        return false
+    }
+    else if (isNaN(parseFloat(file_row[4]))) {
+        logger.warn("Amount invalid!")
+        logger.warn(new transaction(file_row[0], file_row[1], file_row[2], file_row[3], file_row[4]).transaction_to_string())
+        return false
+    }
+    else if (!moment(file_row[0], "DD/MM/YYYY", true).isValid()) {
+        logger.warn("Date Invalid!")
+        logger.warn(new transaction(file_row[0], file_row[1], file_row[2], file_row[3], file_row[4]).transaction_to_string())
+        return false
+    }
+    else {
+        return true
+    }
 }
-logger.info("Program has Started")
 
 
-function ReadCsvFile(FileName) {
-    fs.createReadStream(FileName)
+function load_one_transaction(file_row) {
+    if (check_data_for_errors(file_row)) {
+        transactions_list.push(new transaction(file_row[0], file_row[1], file_row[2], file_row[3], file_row[4]))
+    }
+}
+
+function read_csv_file(file_name) {
+    fs.createReadStream(file_name)
         .pipe(parse({delimiter: ','}))
-        .on('data', loadOneTransaction)
-        .on('end', () => ProgramMainBody())
+        .on('data', load_one_transaction)
+        .on('end', () => program_main_body())
 }
-function ReadJsonFile(FileName) {
-    console.log("Sorry, we don't have the capabilites to do this right now...")
+
+function read_json_file(file_name) {
+    const transactions_list_json = JSON.parse(fs.readFileSync(input))
+    for (let i = 0; i < transactions_list_json.length; i++) {
+        transactions_list.push(new transaction(transactions_list_json[i].Date, transactions_list_json[i].FromAccount, transactions_list_json[i].ToAccount, transactions_list_json[i].Narrative, transactions_list_json[i].Amount))
+    }
+    program_main_body()
 }
 
 //Pre Processing Details
+logger.info("Program has Started")
+var transactions_list = []
 var input = readlineSync.question("Name of File: ")
 
 if (!(input.search(".csv") === -1)) {
     logger.info("User has opened " + input)
-    ReadCsvFile(input)
+    read_csv_file(input)
 }
 else if  (!(input.search(".json") === -1)) {
-    ReadJsonFile(input)
+    logger.info("User has opened " + input)
+    read_json_file(input)
 }
