@@ -18,7 +18,7 @@ export class Person {
         }
     }
 
-    calculateowes() {
+    calculateamountowed() {
         for (let i = 0; i < this.transactions_to.length; i++) {
             this.transactions_to[i].amount_checknumber()
             this.amount_owed -= parseFloat(this.transactions_to[i].Amount)
@@ -29,7 +29,7 @@ export class Person {
         }
     }
 
-    displayowes() {
+    displayamountowed() {
         console.log(this.Name + " owes £" + this.amount_owed.toFixed(2))
     }
 }

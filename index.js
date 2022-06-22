@@ -50,8 +50,8 @@ function ListAll(Names) {
     logger.info("User has selected List All")
     console.log("\nNames & Owes...")
     for (let i = 0; i < Names.length;i++) {
-        Names[i].calculateowes()
-        Names[i].displayowes()
+        Names[i].calculateamountowed()
+        Names[i].displayamountowed()
     }
 }
 
