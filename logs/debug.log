@@ -1016,3 +1016,44 @@
 [2022-06-22T18:09:43.194] [INFO] index.js - User has selected List All
 [2022-06-22T18:09:43.201] [INFO] index.js - Program has Ended!
 
+[2022-06-22T18:15:05.807] [INFO] index.js - Program has Started
+[2022-06-22T18:15:24.640] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-22T18:15:24.700] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:15:29.769] [INFO] index.js - User has selected List All
+[2022-06-22T18:15:29.776] [INFO] index.js - Program has Ended!
+
+[2022-06-22T18:15:41.892] [INFO] index.js - Program has Started
+[2022-06-22T18:15:55.765] [INFO] index.js - User has opened Dodgy Transaction.csv
+[2022-06-22T18:15:55.796] [WARN] index.js - Amount invalid!
+[2022-06-22T18:15:55.797] [WARN] index.js - Date: 01/03/2015  From: Ben B  To: Sam N  Narrative: Lunch  Amount: One Cheeseburger
+[2022-06-22T18:15:55.807] [WARN] index.js - Date Invalid!
+[2022-06-22T18:15:55.809] [WARN] index.js - Date: Last Thursday  From: Sarah T  To: Dan W  Narrative: Beers  Amount: 5.42
+[2022-06-22T18:15:55.811] [INFO] index.js - Data is Loaded!
+[2022-06-22T18:15:59.865] [INFO] index.js - User has selected List Todd
+[2022-06-22T18:15:59.872] [INFO] index.js - Program has Ended!
+
+[2022-06-23T18:22:40.960] [INFO] index.js - Program has Started
+[2022-06-23T18:22:48.439] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-23T18:22:48.522] [INFO] index.js - Data is Loaded!
+[2022-06-23T18:23:58.036] [INFO] index.js - Program has Started
+[2022-06-23T18:24:04.035] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-23T18:24:04.075] [INFO] index.js - Data is Loaded!
+[2022-06-23T18:24:24.629] [INFO] index.js - Program has Started
+[2022-06-23T18:24:32.305] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-23T18:24:32.358] [INFO] index.js - Data is Loaded!
+[2022-06-23T18:24:40.249] [INFO] index.js - Program has Ended!
+
+[2022-06-23T18:24:42.760] [INFO] index.js - Program has Started
+[2022-06-23T18:24:51.995] [INFO] index.js - User has opened TransactionsList2014.csv
+[2022-06-23T18:24:54.177] [INFO] index.js - Program has Started
+[2022-06-23T18:25:00.076] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-23T18:25:00.121] [INFO] index.js - Data is Loaded!
+[2022-06-23T18:25:02.890] [INFO] index.js - User has selected List All
+[2022-06-23T18:25:02.902] [INFO] index.js - Program has Ended!
+
+[2022-06-23T18:30:27.216] [INFO] index.js - Program has Started
+[2022-06-23T18:30:41.927] [INFO] index.js - User has opened Transactions2014.csv
+[2022-06-23T18:30:41.986] [INFO] index.js - Data is Loaded!
+[2022-06-23T18:30:48.070] [INFO] index.js - User has selected List All
+[2022-06-23T18:30:48.077] [INFO] index.js - Program has Ended!
+

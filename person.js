@@ -20,4 +20,16 @@ export class person {
     display_amount_owed() {
         console.log(this.name + " owes £" + this.amount_owed.toFixed(2))
     }
+
+    add_transaction(transaction) {
+        if (this.name === transaction.to) {
+            this.transactions_to.push(transaction)
+            this.amount_owed -= parseFloat(transaction.amount)
+        }
+        else if (this.name = transaction.from) {
+            this.transactions_from.push(transaction)
+            this.amount_owed += parseFloat(transaction.amount)
+        }
+    }
+
 }

@@ -28,16 +28,14 @@ function create_list_of_people(transactions_list) {
             person_from = new person(transactions_list[i].from, 0, [], [])
             people_list.push(person_from)
         }
-        person_from.transactions_from.push(transactions_list[i])
-        person_from.amount_owed += parseFloat(transactions_list[i].amount)
-
+        person_from.add_transaction(transactions_list[i])
+        
         let person_to = people_list.find(person => person.name === transactions_list[i].to)
         if (!person_to) {
             person_to = new person(transactions_list[i].to, 0, [], [])
             people_list.push(person_to)
         }
-        person_to.transactions_to.push(transactions_list[i])
-        person_to.amount_owed -= parseFloat(transactions_list[i].amount)
+        person_to.add_transaction(transactions_list[i])
     }
     return people_list
 }
